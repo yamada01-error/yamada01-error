@@ -2,3 +2,7 @@
 <div align="center">
   <img src="./9df1f96eec2d550e89da18b12fa980ac.jpg" width="300px">
 </div>
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=javascript&logoColor=black)
